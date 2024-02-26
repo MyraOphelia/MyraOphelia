@@ -1,5 +1,4 @@
 ### Hi there 👋
-.
 
 Hi there, I'm - Myra Ophelia Iman 👋 Hits
 
@@ -10,3 +9,5 @@ Hi there, I'm - Myra Ophelia Iman 👋 Hits
 Connect with me:
 
 
+Languages
+Python JavaScript Go C Java TypeScript C++ SQL
