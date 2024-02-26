@@ -1,9 +1,7 @@
 ### Hi there 👋
+.
 
-<!--
-**MyraOphelia/MyraOphelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi there, I' - Myra OPhelia Iman 👋 Hits
+Hi there, I'm - Myra Ophelia Iman 👋 Hits
 
 🔭 I’m currently studying as a Software Engineer!
 🌱 I love to take on new challenges!
