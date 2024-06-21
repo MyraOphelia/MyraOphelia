@@ -8,7 +8,7 @@
 - 📫 How to reach me **myramaurice1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://www.linkedin.com/in/myra-ophelia-iman-b-954230312/?locale=de_DE
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
