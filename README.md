@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Chess Game**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **myramaurice1234@gmail.com**
 
