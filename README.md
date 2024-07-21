@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Myra Ophelia Iman</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
-- 🔭 I’m currently working on **Social Media Platform**
+- 🔭 I’m currently working on **1. Social Media Platform**
+                              **2. RMC**
 
 - 🌱 I’m currently learning **JavaScript**
 
