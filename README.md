@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Myra Ophelia Iman</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
-- 🔭 I’m currently working on ** RMC** & Tic Tac Toe
-- 
-
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working on ** RMC** & Front-End Animations
+  
+- 🌱 I’m currently learning **Angular & Laravel**
 
 - 📫 How to reach me **myramaurice1234@gmail.com**
 
