@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https:/www.linkedin.com/in/myra-ophelia-iman-b-954230312/?locale=de_de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/myra-ophelia-iman-b-954230312/?locale=de_de" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/myra-ophelia-iman-b-954230312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/myra-ophelia-iman-b-954230312/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCzuixvRC3RdlJjhVK7X8YCw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCzuixvRC3RdlJjhVK7X8YCw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/myraophelia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/myraophelia/" height="30" width="40" /></a>
 </p>
