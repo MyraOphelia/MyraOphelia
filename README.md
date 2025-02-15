@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Software Developer with expertise in JavaScript, dedicated to building smooth and intuitive user experiences across mobile, frontend, and backend platforms. My tech journey began with a curiosity for solving complex problems, and over time, it has evolved into a deep fascination with the boundless potential of coding."<br><br>🔭 Currently working on: RMC & Front-End Animations<br>🌱 Exploring: Angular & Laravel<br>👯 Open to collaborating on: RWC<br>📫 Reach me at: myramaurice1234@gmail.com<br>⚡ Fun fact: When I’m not coding or designing, you’ll probably find me paddling through scenic waters or perfecting my archery skills!
+I'm a passionate Software Developer  dedicated to building smooth and intuitive user experiences across mobile, frontend, and backend platforms. My tech journey began with a curiosity for solving complex problems, and over time, it has evolved into a deep fascination with the boundless potential of coding."<br><br>🔭 Currently working on: RMC & Front-End Animations<br>🌱 Exploring: Angular & Laravel<br>👯 Open to collaborating on: RWC<br>📫 Reach me at: myramaurice1234@gmail.com<br>⚡ Fun fact: When I’m not coding or designing, you’ll probably find me paddling through scenic waters or perfecting my archery skills!
 
 
 ## 🌐 Socials:
