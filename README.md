@@ -44,11 +44,21 @@ I build reliable, user-centred software: clear UX, maintainable code, and system
 
 **Open to:** architecture-adjacent roles (solution / technical design) · junior web dev · collaboration on meaningful products · hackathon teams & project partners  
 
+---
 ### Away from the keyboard
 
 *Off-screen: 🚣🏽 · 📖.*
 
 ---
+### Current projects
+
+1. **Machine learning — prediction** — Building predictive models; experimenting with data-driven forecasts.  
+2. **AI chat assistant** — Real-time assistance with **multilingual** support and **accessibility / disability-aware** features (inclusive UX).  
+3. **FYP 02** — Capstone in progress — *stay tuned.*
+
+---
+
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/myra-ophelia-iman/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
