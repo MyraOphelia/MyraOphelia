@@ -46,14 +46,7 @@ I build reliable, user-centred software: clear UX, maintainable code, and system
 
 ### Away from the keyboard
 
-<p align="center">
-  <br/>
-  ✦ ✦ ✦<br/><br/>
-  <b>Off-screen</b> &nbsp;·&nbsp; <i>recharge mode</i><br/><br/>
-  <span title="Kayaking">🚣🏽</span> &nbsp; <b>Kayaking</b> &nbsp;&nbsp;&nbsp; <code>·</code> &nbsp;&nbsp;&nbsp; <span title="Reading">📖</span> &nbsp; <b>Reading</b><br/><br/>
-  <sub><i>Still water · good chapters · then back to the build</i></sub><br/><br/>
-  ✦ ✦ ✦<br/>
-</p>
+*Off-screen: 🚣🏽 · 📖.*
 
 ---
 
