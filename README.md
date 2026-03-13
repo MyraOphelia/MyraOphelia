@@ -4,7 +4,7 @@
 
 I build reliable, user-centred software: clear UX, maintainable code, and systems that scale from prototype to production. Interested in **frontend engineering**, **APIs & backend services**, and **end-to-end product quality**.
 
-*BSc Computer Science (MMU) · strong academic record · shipped PHP sites end-to-end + automation at scale in prior roles — happy to talk architecture and trade-offs.*
+*BSc Computer Science  · strong academic record · shipped PHP sites end-to-end + automation at scale in prior roles — happy to talk architecture and trade-offs.*
 
 ---
 
@@ -40,7 +40,7 @@ I build reliable, user-centred software: clear UX, maintainable code, and system
 |:---|:---|
 | **Email** | [myramaurice1234@gmail.com](mailto:myramaurice1234@gmail.com) |
 | **LinkedIn** | [Myra Ophelia Iman](https://www.linkedin.com/in/myra-ophelia-iman/) |
-| **Portfolio** | [myraophelia.framer.website](https://myraophelia.framer.website/) |
+| **Portfolio** | [myraophelia.(refer resume) |
 
 **Open to:** architecture-adjacent roles (solution / technical design) · junior web dev · collaboration on meaningful products · hackathon teams & project partners  
 
