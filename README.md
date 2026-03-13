@@ -4,7 +4,7 @@
 
 I build reliable, user-centred software: clear UX, maintainable code, and systems that scale from prototype to production. Interested in **frontend engineering**, **APIs & backend services**, and **end-to-end product quality**.
 
-*BSc Computer Science  · strong academic record · shipped PHP sites end-to-end + automation at scale in prior roles — happy to talk architecture and trade-offs.*
+*BSc Computer Science  · strong academic record · shipped PHP sites end-to-end + automation at scale in prior roles ; happy to talk architecture and trade-offs.*
 
 ---
 
@@ -44,7 +44,16 @@ I build reliable, user-centred software: clear UX, maintainable code, and system
 
 **Open to:** architecture-adjacent roles (solution / technical design) · junior web dev · collaboration on meaningful products · hackathon teams & project partners  
 
-*Off-screen: kayaking · reading.*
+### Away from the keyboard
+
+<p align="center">
+  <br/>
+  ✦ ✦ ✦<br/><br/>
+  <b>Off-screen</b> &nbsp;·&nbsp; <i>recharge mode</i><br/><br/>
+  <span title="Kayaking">🚣🏽</span> &nbsp; <b>Kayaking</b> &nbsp;&nbsp;&nbsp; <code>·</code> &nbsp;&nbsp;&nbsp; <span title="Reading">📖</span> &nbsp; <b>Reading</b><br/><br/>
+  <sub><i>Still water · good chapters · then back to the build</i></sub><br/><br/>
+  ✦ ✦ ✦<br/>
+</p>
 
 ---
 
