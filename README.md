@@ -6,14 +6,19 @@ I build reliable, user-centred software: clear UX, maintainable code, and system
 
 ---
 
-@@ -14,35 +14,42 @@ I build reliable, user-centred software: clear UX, maintainable code, and system
+### Focus
+| Area | Stack & practice |
+|------|------------------|
+| **Languages** | JavaScript, TypeScript, Java, Python, C++, PHP |
 | **Frontend** | React, Angular, HTML5, Bootstrap |
 | **Mobile / UI** | Flutter, JavaFX |
 | **Backend & runtime** | Node.js, .NET |
-| **Data** | MySQL, MongoDB, Firebase |
-| **Cloud & infra** | Azure, Cloudflare, Apache |
-
+| **Data & BaaS** | **MySQL**, **Supabase** (auth, Postgres, realtime—pick your poison, I’ll wire it) |
+| **Cloud & infra** | Cloudflare, Apache |
+| **AI & copilots** | **Google Gemini**, **Claude** — prompts, codegen, reviews, docs; still own the architecture |
 | **Design & collaboration** | Figma, Adobe XD, SketchUp, Jira, Notion |
+*Jack of many trades, honest about depth. Always leveling up.*
+---
 
 
 
@@ -31,8 +36,8 @@ I build reliable, user-centred software: clear UX, maintainable code, and system
 
 ### Contact
 
-**Email:** [myramaurice1234@gmail.com](mailto:myramaurice1234@gmail.com)
-**LinkedIn** | [**Connect on LinkedIn**](https://www.linkedin.com/in/myra-ophelia-iman/) 
+- **Email:** [myramaurice1234@gmail.com](mailto:myramaurice1234@gmail.com)
+- **LinkedIn** | [**Connect on LinkedIn**](https://www.linkedin.com/in/myra-ophelia-iman/) 
 
 **Architecture-adjacent roles** (solution / technical design) · **junior web dev**  · **collaboration on meaningful products** · **hackathon teams & project partners**
 
