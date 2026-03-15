@@ -1,6 +1,6 @@
 ## Myra Ophelia Iman
 
-**Software Developer** — full-stack and product-focused delivery across web and mobile.
+**JNR Software Developer** — full-stack and product-focused delivery across web and mobile.
 
 I build reliable, user-centred software: clear UX, maintainable code, and systems that scale from prototype to production. Interested in **frontend engineering**, **APIs & backend services**, and **end-to-end product quality**.
 
