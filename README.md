@@ -54,7 +54,7 @@ I build reliable, user-centred software: clear UX, maintainable code, and system
 
 1. **Machine learning — prediction** — Building predictive models; experimenting with data-driven forecasts.  
 2. **AI chat assistant** — Real-time assistance with **multilingual** support and **accessibility / disability-aware** features (inclusive UX).  
-3. **FYP 02** — Capstone in progress — *stay tuned.*
+3. Working - Full Time
 
 ---
 
