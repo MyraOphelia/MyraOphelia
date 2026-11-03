@@ -16,7 +16,7 @@ I build reliable, user-centred software: clear UX, maintainable code, and system
 | **Frontend** | React, Angular, HTML5, Bootstrap |
 | **Mobile / UI** | Flutter, JavaFX |
 | **Backend & runtime** | Node.js, .NET |
-| **Data & BaaS** | **MySQL**, **Supabase** (auth, Postgres, realtime—pick your poison, I’ll wire it) |
+| **Data & BaaS** | **MySQL**, **Supabase** (auth, Postgres, realtime) |
 | **Cloud & infra** | Cloudflare, Apache |
 | **AI & copilots** | **Google Gemini**, **Claude** — prompts, codegen, reviews, docs; still own the architecture |
 | **Design & collaboration** | Figma, Adobe XD, SketchUp, Jira, Notion |
